@@ -1,4 +1,4 @@
-#Welcome To My Github Space :fa-smile-o:
+#Welcome To My Github Space
 
 Discord: ______falken______
 Telegram: @lordFalken
