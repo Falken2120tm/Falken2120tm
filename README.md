@@ -1,15 +1,15 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Falken2120tm&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Falken2120tm
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Falken2120tm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Falken2120tm&theme=juicyfresh&no-bg=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFalken2120tm&longCache=true"/>
+<img src="https://img.shields.io/github/stars/Falken2120tm?label=Stars" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=Falken2120tm&color=brightgreen" alt="watching_count" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/Falken2120tm)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Falken2120tm)](https://github.com/Falken2120tm/github-readme)
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
