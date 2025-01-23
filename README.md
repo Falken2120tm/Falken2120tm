@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Falken2120tm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
